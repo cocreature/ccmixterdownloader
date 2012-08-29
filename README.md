@@ -1,4 +1,4 @@
-# CCMixterDownload
+# CCMixterDownloader
 ### Depends on
 python3
 
